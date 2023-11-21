@@ -1,0 +1,105 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_RSS_Stream
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WW_RSS_Stream
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAACNZkA6G5t6yKF1WqLDrWHP98uVFBxoT0vSLvHBXXiWuzmcbAV6lVSuwk619qxsv0zq9vCacJ6BwxpPlEdvgLRHXvVz6w1ruYPpj41NAL0bP3SV06YD8vR2rNLEUHoxp4rHT0meoIOMaom71u/qpO1DdW8cWLNhJL4yHhgDZvCpKjZzi+MZPgFEKahkfKBdseKpEfobeBOI5r6fVHxlExM1FCOWhW4zCJfkMw8l6+wR7vs5ruNt5gYI7NBPEWZ5sseVSLGOapj8zQ6R5HaqbU8qdAUC/HeuOBgVQcDJbKTtyJBe7THuXbfhuxWUNim03rx17lUkmBx7lxhhUKfczh/wc7Eo2/cv7iLzDVJnpXhcbFdp2+LuAzprS7gyX1jp7M3bk/QOVg9UqQAQmv/xvYhurENTiTNZbmBCvL/aJFWclaXXGzB0FqIVsdc0ljFCinb4qt0Zlwg1alEMxJKJaY+8cWM1GIkvK2HE4vsf1oLCpnTIOCt4YcdudzHAfCMGrflJA6Pm+qHjm+yeTprh6sVP+r5KXmFdxmgd/DwMKFfZ3KhozQ9bL5BgYktPHk8c+VoCOgMF+6tO4fWLDkwapPEkfsY7PrAoeSiTGuQXt+qJxWuCrXQfbf94Tyn0oMbu6BVhJiEiHGWWo7e4qkHpzxFtx9SoFtmmJt8ZM0d67bhDfSF035Jtr534oKNgP5pUqahsybrBrw7ZqXgJksOSuBIl9sxWeGUgsP3WmTIVuGpVeNgF5DUywA1T5O+2VxkWQPYgOntGXyVfKGK+ufkjP/BI072ePaXMtcyKLAQaMjxY2OezHfqe7fu/PmCxF5db6CkokYsZnPJUnyUv0s7uGFVuqfLxqRLFQAYJ5iz/Zv4SRMyPHjo8sAW0N5VOo1u2L0GqT63X/vIUVUpRY5/lW7aVoomRPnaID2kBbTHGdzl0eXf1gCqw0fNMo8JxGZQiKE++JUyQwkEFe6ijDhA2cr4ShHYPjUW7otSCvJZxQtmKTfgbBCNOsPBsLBpwVKBRQ7+QwJu/Y/pRkuY0sXkB3S1n2jLsEc2PWAMWxWXn+AdW4urtpfX48/nNTzsoGz9lbjDaBGo4+OfF5WU+hkwby/mMWhqrW/rhXBkmM45cLK9v7vg0K14vfNP3PzHj/J7OCew0mub1Kjbq/PtaXAKLYZbCym8HjBApGlWdGmQvMXdOqSMgMfULZpadovEQddhKHwurDmd+5dcvn5AC+zffBqQdiwn4ZCh5Uezz5rRhaBDhyj+iEQlrbXGnHsY3f8/hlgXoWHbxtrNZzsHwzoef3srKLOhqm1uT3wPxEgXMrgDf0ObQE9dGSi40pTAnc23VQidUwEQ55TY83VQjb0QbpYFzNSwjE02tMGtHQA3ZJGo1yPlB7Pr8PhodwoDQ5h54KQ/Csrh3eMeOg0hF6p/pWxRnfPB8mcS3HwrLCt2+wO8IcyhjmsNfxkv+HsGTkJkKF9C02vz1CQKmFstY2iNmbllU+bdCKD9Q4leGppf6gXghd5lmPLjHQpC9Xfzy/aSELBO3U7Yx58s6P4JHMSx3ISUBArYHFHpVb5sze/AAZfZFvBYCHvO09XWJVkRKX0k30WHumli4aL5t0O37nT3HIlYz8NbZ/ud9S+Ie2PP5+Rbv4LUnXnLudrLiawcTk4LijlM8SV9vFFW+gfBbStqXfLHGwEkvtatagvNd6GQmZZuVJBRFYVVbm6LihgmyMyrnAUbpVffYWXOrY9JgyiZVlJU1rGwzmMABMikpoPTMVj8+oarSB0hy7+p/DNoVjx+WvN/JlcyOTU0vzBmp+4BQJ0q1VbHLikZT/EZj0iZStBvziNsmnH4cHScgqWlMcHRxPkxYsggggJ3oeaWAPHeEVl9unugbEvzTDjP+Q3DR66Xir9MFqeaEfMDk3amsNFVHWIxqwMbXCbZOJ0awmg6GdXrVUdI069JvUpuPWWdetU4mDbAUw8t57mpRgpAZZLu30rjEA92bt6DBoQxBrrsPZvSm3UApAlNq9RF6dUZs1uZx1mpROAhJefq+chAOiP8guFXRXTweKg==
+ configurations :
+  -
+    name : WW_RSS_Stream
+    internal_properties : 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
+    configuration_id : 14167044862201472009
+    type : 2
+    generation_name : WW_RSS_Stream.wdl
+    version : {}
+    language : 2
+    64bits : true
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAAFnSJQm/SF6S0dmhCXToe0hz1GDRhbd2Lhq4ORWqq1Q1U87SSFnYgSH5z32a7MqElN5T9WFlQyxNgGAg==
+ elements :
+  identifier : 0x4ac4cf91000f7d3f
+  elements :
+   -
+     name : TPLC_RSS
+     identifier : 0x4758055c0009e11e
+     internal_properties : CAAAAAgAAAAIBnAsm8Boc0pZSz41pixgbGPLY2NgYHCw0FSxFfKaDv7Q6zaLcWWeFwP9+7s1zcMNFQ==
+     physical_name : .\TPLC_RSS.wwt
+     type : 65543
+   -
+     name : Global_procedures_of_WW_RSS_Stream_Browser
+     identifier : 0x4757d04100017c77
+     internal_properties : CAAAAAgAAAAS6EpebdpSDSDjadgXOkKKVtml5cktxNBWDVCA6T5eukb0i5Ypk4O8ca0X4aFfG413/w==
+     physical_name : .\Global_procedures_of_WW_RSS_Stream_Browser.wwn
+     type : 65539
+   -
+     name : Global procedures of WW_RSS_Stream
+     identifier : 0x4757d04100007a16
+     internal_properties : CAAAAAgAAAA2HB4CoZ6Wmbx/1aSDl8qaui9JOZcjnXVKzHdZiI+FW5FNDgO9B/84/TmjHeUb59kjIw==
+     physical_name : .\Global procedures of WW_RSS_Stream.wdg
+     type : 7
+   -
+     name : PAGE_Example
+     identifier : 0x4757fa030008972a
+     internal_properties : CAAAAAgAAACrp5P3NHE5YnsKYFOavNcn+4qyWmqG/CqrwQkoU6T20nqaJwqmHgjDSPTuykqGcmautg==
+     physical_name : .\PAGE_Example.wwh
+     type : 65538
+  other_elements :
+   -
+     physical_name : .\description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ common_generation_directory : true
+ languages :
+  - en-GB
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_Example
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAAH+iEs8gaApsX6Eqq6duWkiE54p/iUj6ZCahLIi9bS9UQiM8XuHCAhNgAoAebMO+xHJd+aR5N/EGD+lr6c5Ofbt69gVqSk3yb3F/XeQjq/e9JW
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WW_RSS_Stream
+     identifier : 0x4ac4cf9100147deb
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WW_Flux_RSS
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
